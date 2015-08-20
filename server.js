@@ -33,6 +33,20 @@ app.use(methodOverride());
 
 app.use(express.static(path.join(__dirname, './client')));
 
+app.use(function (req, res, next) {
+    console.log('@[nibs.http] %s', JSON.stringify({
+        'originalUrl': req.originalUrl,
+        'params': req.params,
+        'protocol': req.protocol,
+        'hostname': req.hostname,
+        'path': req.path,
+        'query': req.query,
+        'body': req.body,
+        'ip': req.ip
+    }));
+    next();
+})
+
 app.use(function(err, req, res, next) {
     console.log(err.stack);
     res.send(500, err.message);
