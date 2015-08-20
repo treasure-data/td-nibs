@@ -1,5 +1,5 @@
 {
     "name": "Nibs",
     "description": "Customer loyalty application",
-    "addons": ["heroku-postgresql:hobby-dev", "treasure-data:trial"]
+    "addons": ["heroku-postgresql:hobby-dev", "treasure-data:test"]
 }
