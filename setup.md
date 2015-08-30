@@ -7,7 +7,7 @@ title: Setup
 
 You can deploy your own version of Nibs in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/treasure-data/td-nibs)
   
 ## Deploying to Heroku using the Command Line
 
