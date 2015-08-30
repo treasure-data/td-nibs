@@ -1,5 +1,6 @@
 {
     "name": "Nibs",
     "description": "Customer loyalty application",
+    "repository": "https://github.com/treasure-data/td-nibs",
     "addons": ["heroku-postgresql:hobby-dev", "treasure-data:test"]
 }
