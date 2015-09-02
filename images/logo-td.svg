@@ -12,6 +12,7 @@
 </style>
 <title>logo slice</title>
 <description>Created with Sketch.</description>
+<rect x="-1159" y="67" width="1210" height="405"/>
 <g id="Page-1" sketch:type="MSPage">
 	<g id="Splash" transform="translate(-140.000000, -166.000000)" sketch:type="MSArtboardGroup">
 		<g id="nibs-confections" transform="translate(108.000000, 116.000000)" sketch:type="MSLayerGroup">
@@ -35,27 +36,27 @@
 <g>
 	<g>
 		<defs>
-			<rect id="SVGID_1_" x="-1116.3" y="173.3" width="738.3" height="155.4"/>
+			<rect id="SVGID_1_" x="-1116.3" y="201.9" width="738.3" height="155.4"/>
 		</defs>
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 		</clipPath>
-		<polygon class="st1" points="-986.4,173.8 -1076.5,173.8 -1115.1,208.6 -986.4,328.2 -857.9,208.5 -896.7,173.8 		"/>
-		<polygon class="st1" points="-803.9,173.3 -803.9,189.1 -749.9,189.1 -749.9,328 -728.4,328 -728.4,189.1 -673.3,189.1 
-			-673.3,173.3 		"/>
+		<polygon class="st1" points="-986.4,202.4 -1076.5,202.4 -1115.1,237.2 -986.4,356.8 -857.9,237.1 -896.7,202.4 		"/>
+		<polygon class="st1" points="-803.9,201.9 -803.9,217.7 -749.9,217.7 -749.9,356.5 -728.4,356.5 -728.4,217.7 -673.3,217.7 
+			-673.3,201.9 		"/>
 		<g class="st2">
 			<defs>
-				<rect id="SVGID_3_" x="-1116.3" y="173.3" width="738.3" height="155.4"/>
+				<rect id="SVGID_3_" x="-1116.3" y="201.9" width="738.3" height="155.4"/>
 			</defs>
 			<clipPath id="SVGID_4_">
 				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
 			</clipPath>
-			<path class="st3" d="M-623.9,173.6h55.4c50.5,0,82.6,23.9,82.6,71.6c0,61.4-38.5,83-81,83h-57V173.6z M-602.4,313.3h36
-				c36,0,58.6-22.1,58.6-63.7c0-47.4-27.3-61.2-62.5-61.2h-32.2V313.3z"/>
+			<path class="st3" d="M-623.9,202.2h55.4c50.5,0,82.6,23.9,82.6,71.6c0,61.4-38.5,83-81,83h-57V202.2z M-602.4,341.9h36
+				c36,0,58.6-22.1,58.6-63.7c0-47.4-27.3-61.2-62.5-61.2h-32.2V341.9z"/>
 		</g>
 	</g>
 </g>
 <g>
-	<path class="st4" d="M-390.7,249.1h35.2v4h-35.2v36.8h-4V253h-33.8v-4h33.8v-36.9h4V249.1z"/>
+	<path class="st4" d="M-390.7,277.6h35.2v4h-35.2v36.8h-4v-36.8h-33.8v-4h33.8v-36.9h4V277.6z"/>
 </g>
 </svg>
