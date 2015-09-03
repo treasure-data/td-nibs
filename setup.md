@@ -34,9 +34,9 @@ You can also deploy Nibs to Heroku using the command line:
 
 1. Install the Treasure Agent plugin
 
-   ```
-   heroku addons:create treasure-data:trial
-   ```
+    ```
+    heroku addons:create treasure-data:trial
+    ```
 
 1. Deploy to Heroku
 
