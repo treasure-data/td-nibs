@@ -1,1 +1,4 @@
-
+---
+layout: module
+title: Architecture
+---
