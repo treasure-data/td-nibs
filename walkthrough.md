@@ -1,4 +1,4 @@
 ---
 layout: module
-title: Architecture
+title: Walkthrough
 ---

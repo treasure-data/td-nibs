@@ -1,4 +1,4 @@
 ---
 layout: module
-title: architecture
+title: Architecture
 ---
