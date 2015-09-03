@@ -46,7 +46,6 @@ You can also deploy Nibs to Heroku using the command line:
         ```
     - Click the Signup button to create an account
      
-    > Facebook login won't work until you complete the Facebook integration steps described below.
 
 
 ## Installing a Local Version 
